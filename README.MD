@@ -1,3 +1,4 @@
 Lap Trinh An Toan
-I am Ly Khanh Tung studying Git
-Hi Tung!
+I am Ly Khanh Thang studying Git
+Hi Thang!
+
